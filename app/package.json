@@ -20,9 +20,9 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@types/node": "catalog:",
+    "@types/node": "^22",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "typescript": "catalog:"
+    "typescript": "^5"
   }
 }
